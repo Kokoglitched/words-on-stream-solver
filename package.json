@@ -1,0 +1,23 @@
+{
+  "name": "words-on-stream-solver",
+  "version": "1.0.0",
+  "description": "Hello, Words on Stream Solver!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kokoglitched/words-on-stream-solver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kokoglitched/words-on-stream-solver/issues"
+  },
+  "homepage": "https://github.com/Kokoglitched/words-on-stream-solver#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
